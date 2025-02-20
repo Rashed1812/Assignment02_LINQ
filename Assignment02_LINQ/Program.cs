@@ -16,6 +16,7 @@ namespace Assignment02_LINQ
             return string.Compare(x, y, StringComparison.OrdinalIgnoreCase);
             throw new NotImplementedException();
         }
+    
     }
     internal class Program
     {
